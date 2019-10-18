@@ -1,0 +1,23 @@
+{
+"products": [
+{"id":1,"name":"Paradoxure","category":"Goldenrod"},
+{"id":2,"name":"Boa, columbian rainbow","category":"Maroon"},
+{"id":3,"name":"Hyena, spotted","category":"Goldenrod"},
+{"id":4,"name":"Seal, southern elephant","category":"Fuscia"},
+{"id":5,"name":"Racer, blue","category":"Pink"},
+{"id":6,"name":"Stork, greater adjutant","category":"Aquamarine"},
+{"id":7,"name":"Ferret, black-footed","category":"Khaki"},
+{"id":8,"name":"Praying mantis (unidentified)","category":"Violet"},
+{"id":9,"name":"Butterfly, canadian tiger swallowtail","category":"Indigo"},
+{"id":10,"name":"African fish eagle","category":"Green"},
+{"id":11,"name":"Butterfly, canadian tiger swallowtail","category":"Orange"},
+{"id":12,"name":"Four-striped grass mouse","category":"Maroon"},
+{"id":13,"name":"Ovenbird","category":"Teal"},
+{"id":14,"name":"Baboon, chacma","category":"Blue"},
+{"id":15,"name":"Heron, grey","category":"Maroon"},
+{"id":16,"name":"Grenadier, purple","category":"Pink"},
+{"id":17,"name":"Capuchin, white-fronted","category":"Crimson"},
+{"id":18,"name":"Beaver, european","category":"Green"},
+{"id":19,"name":"Lesser mouse lemur","category":"Yellow"},
+{"id":20,"name":"Prehensile-tailed porcupine","category":"Indigo"}]
+}
